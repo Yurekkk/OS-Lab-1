@@ -7,7 +7,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
@@ -20,7 +20,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -28,7 +28,7 @@
 					[
 						0
 					],
-					"name" : "MyHelloApp",
+					"name" : "main",
 					"targetIndexes" : 
 					[
 						0
@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MyHelloApp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MyHelloApp-df8b732065c0c92c1a42.json",
+					"jsonFile" : "target-MyHelloApp-Debug-4635002d33ce2822d4bc.json",
 					"name" : "MyHelloApp",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1/build",
-		"source" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1"
+		"build" : "D:/OS/Lab-1/build",
+		"source" : "D:/OS/Lab-1"
 	},
 	"version" : 
 	{

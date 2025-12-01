@@ -53,10 +53,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1
+CMAKE_SOURCE_DIR = D:\OS\Lab-1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1\build
+CMAKE_BINARY_DIR = D:\OS\Lab-1\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -84,14 +84,14 @@ clean: CMakeFiles/MyHelloApp.dir/clean
 CMakeFiles/MyHelloApp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHelloApp.dir\build.make CMakeFiles/MyHelloApp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHelloApp.dir\build.make CMakeFiles/MyHelloApp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1\build\CMakeFiles --progress-num=1,2 "Built target MyHelloApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\OS\Lab-1\build\CMakeFiles --progress-num=1,2 "Built target MyHelloApp"
 .PHONY : CMakeFiles/MyHelloApp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MyHelloApp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\OS\Lab-1\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/MyHelloApp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\OS\Lab-1\build\CMakeFiles 0
 .PHONY : CMakeFiles/MyHelloApp.dir/rule
 
 # Convenience name for target.
@@ -101,7 +101,7 @@ MyHelloApp: CMakeFiles/MyHelloApp.dir/rule
 # codegen rule for target.
 CMakeFiles/MyHelloApp.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHelloApp.dir\build.make CMakeFiles/MyHelloApp.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Юра\Desktop\Учеба\Операционки\Lab-1\build\CMakeFiles --progress-num=1,2 "Finished codegen for target MyHelloApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\OS\Lab-1\build\CMakeFiles --progress-num=1,2 "Finished codegen for target MyHelloApp"
 .PHONY : CMakeFiles/MyHelloApp.dir/codegen
 
 # clean rule for target.

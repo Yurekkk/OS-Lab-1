@@ -39,11 +39,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : ""
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1/build"
+			"value" : "d:/OS/Lab-1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/OS/Lab-1/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1"
+			"value" : "D:/OS/Lab-1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/MyHelloApp"
+			"value" : "C:/Program Files (x86)/main"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -915,7 +915,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "MyHelloApp"
+			"value" : "main"
 		},
 		{
 			"name" : "CMAKE_PROJECT_SPDX_LICENSE",
@@ -1322,7 +1322,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "MyHelloApp_BINARY_DIR",
+			"name" : "main_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1331,10 +1331,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1/build"
+			"value" : "D:/OS/Lab-1/build"
 		},
 		{
-			"name" : "MyHelloApp_IS_TOP_LEVEL",
+			"name" : "main_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1346,7 +1346,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "MyHelloApp_SOURCE_DIR",
+			"name" : "main_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u042e\u0440\u0430/Desktop/\u0423\u0447\u0435\u0431\u0430/\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/Lab-1"
+			"value" : "D:/OS/Lab-1"
 		}
 	],
 	"kind" : "cache",
