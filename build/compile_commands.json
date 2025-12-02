@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/OS/Lab-1/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\OS\\Lab-1\\main.cpp",
-  "file": "D:/OS/Lab-1/main.cpp",
-  "output": "CMakeFiles/main.dir/main.cpp.obj"
-}
-]
