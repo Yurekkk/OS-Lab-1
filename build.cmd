@@ -2,7 +2,7 @@
 setlocal
 
 set PROJECT_DIR=D:\OS\Lab-1
-set BUILD_DIR=%PROJECT_DIR%\build
+set BUILD_DIR=%PROJECT_DIR%\build_win
 
 cd /d "%PROJECT_DIR%"
 
