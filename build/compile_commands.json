@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/knight5016/OS/OS-Lab-1/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/knight5016/OS/OS-Lab-1/main.cpp",
+  "file": "/home/knight5016/OS/OS-Lab-1/main.cpp"
+}
+]
