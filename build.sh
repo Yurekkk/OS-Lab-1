@@ -5,7 +5,8 @@ BUILD_DIR="$PROJECT_DIR/build_linux"
 
 cd "$PROJECT_DIR"
 
-git pull origin main
+git fetch origin
+git reset --hard origin/main
 
 rm -rf "$BUILD_DIR"
 mkdir "$BUILD_DIR"

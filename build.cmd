@@ -6,7 +6,8 @@ set BUILD_DIR=%PROJECT_DIR%\build_win
 
 cd /d "%PROJECT_DIR%"
 
-git pull origin main
+git fetch origin
+git reset --hard origin/main
 
 if exist "%BUILD_DIR%" rd /s /q "%BUILD_DIR%"
 mkdir "%BUILD_DIR%"
